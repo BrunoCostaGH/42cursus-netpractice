@@ -1,4 +1,4 @@
-# NetPractice ([Subject](https://github.com/BrunoCostaGH/42cursus-netpractice/blob/master/.github/42cursus-netpractice.pdf))
+# NetPractice ([Subject](/.github/en.subject.pdf))
 
 ## Description
 
