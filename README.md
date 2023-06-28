@@ -1,4 +1,4 @@
-# NetPractice ([Subject](https://cdn.intra.42.fr/pdf/pdf/79557/en.subject.pdf))
+# NetPractice ([Subject](https://github.com/BrunoCostaGH/42cursus-netpractice/blob/master/.github/42cursus-netpractice.pdf))
 
 ## Description
 
